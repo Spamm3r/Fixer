@@ -1,0 +1,6 @@
+{"base":"EUR","date":"2017-05-19","rates":{"PLN":4.2005}}
+
+
+
+
+http://api.fixer.io/latest?base=EUR&symbols=PLN
